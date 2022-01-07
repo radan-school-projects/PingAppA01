@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PingAppA01</string>
+    <string name="btn_start">PING</string>
+    <string name="btn_stop">STOP</string>
+    <string name="placeholder_text">ping command output:</string>
+</resources>
